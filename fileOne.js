@@ -1,1 +1,1 @@
-var myArray = ["Ting", "Student", "Pet Lover"];
+var myArray = ["Ting K", "Student", "Pet Lover"];
